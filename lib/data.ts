@@ -18,7 +18,7 @@ export const links = [
   },
   {
     name: "Samples",
-    hash: "#Samples",
+    hash: "#projects",
   },
   {
     name: "Skills",
@@ -49,7 +49,7 @@ export const experiencesData = [
     description:
       "Revise, edit, and proofread editorial and product content for multiple countries and languages. Assist in content migration projects. Assist in the management of editorial and product content.Write translation guidelines and terminology lists for Spanish and English.",
     icon: React.createElement(CgWorkAlt),
-    date: "Mar 2020  - Feb 2021",
+    date: "Mar 2020 - Feb 2021",
   },
   {
     title: "English - Spanish Translator - Natuurhuisje",
