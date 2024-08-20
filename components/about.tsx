@@ -31,7 +31,7 @@ export default function About() {
 
       <p>
         <span className="italic">When I'm not writing professionally</span>, I
-        enjoy playing I enjoy crafting and writing stories in my spare time ,
+        enjoy playing I enjoy crafting and writing stories in my spare time,
         watching films, reading, walking, and spinning. I also enjoy learning
         new things. At the moment, I am learning new languages and new skills.
       </p>
